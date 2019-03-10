@@ -6,8 +6,9 @@
 */
 
 function isEmpty(arr) {
-  return arr.length === 0;
+return arr.length ===0;
 }
+
 
 /*
   PLEASE IGNORE LINES BELOW
