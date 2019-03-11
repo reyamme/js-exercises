@@ -9,4 +9,3 @@ console.log(result);
 // you can ignore code below
 
 module.exports = { halve };
-
