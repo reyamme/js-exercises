@@ -2,11 +2,10 @@
 
 // Call the function and assign to a variable `sum`
 
-function add (var1,var2){
-    return var1 + var2 ;
-
+function add(var1, var2) {
+  return var1 + var2;
 }
-var sum= add(13,124);
+var sum = add(13, 124);
 
 console.log(sum);
 
